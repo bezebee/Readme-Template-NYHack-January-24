@@ -16,11 +16,11 @@ The project is deployed and can be accessed at [http://your-deployed-link.com](h
 ## Criteria
 In this section, we will briefly discuss how our team addressed the applicable criteria:
 
-- 💲 Creative design that enhances user-experience
-- 💲 Project fits theme of Budget Busters
-- 💲 Responsive and accessible for different screen sizes
-- 💲 Project is well planned using Github Projects
-- 💲 Overall project focus is realistic and has a sense of completeness
+- 💲 The project has a creative design that enhances user-experience
+- 💲 The project is finance related and has a real world use case
+- 💲 The project is Responsive and accessible on different screen sizes
+- 💲 The project is well-planned using GitHub Projects or other issue board
+- 💲 The project has a well documented README based on the provided template.
 
 # ABOUT SUBMISSION
 ## Intro
